@@ -4,7 +4,3 @@
     using three "s, and are often used
     as documentation.
 """
-
-####################################################
-## 1. Primitive Datatypes and Operators
-####################################################
