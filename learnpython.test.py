@@ -15,3 +15,7 @@
 
 
 # File edited under branch 'master'.
+
+
+
+# File edited under branch 'master' after saved working directory with 'git stash'.
