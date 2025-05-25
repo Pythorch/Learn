@@ -1,1 +1,1 @@
-File to describe Lear code text.
+File to describe Learn code text.
