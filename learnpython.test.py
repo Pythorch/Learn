@@ -23,3 +23,9 @@
 =======
 # File edited under branch 'master' (branch 'stage' created in the past).
 >>>>>>> Stashed changes
+
+
+############################################################
+
+File edited on https://github.com/Pythorch/Learn/blob/master/learnpython.test.py
+
