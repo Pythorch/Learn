@@ -30,3 +30,12 @@ File edited on local machine.
 ############################################################
 
 # Line edited with Pythorch user.
+
+############################################################
+
+# Line edited with "Pythorch2" user.
+
+# First line edited with "Pythorch2" user "fails". 
+# New line edited with "Pythorch2" testing
+
+# Line testing with "Pythorch2" user OK.
